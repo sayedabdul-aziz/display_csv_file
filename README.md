@@ -1,4 +1,4 @@
-# Flutter: Load and display content from CSV files :smiley:
+## Flutter: Load and display content from CSV files :smiley:
 
 > CSV stands for Comma-Separated Values, is a file type widely used to store tabular data (numbers and text) in the plain text where each line will have the same number of fields. In this article, we will explore how to read content from a CSV file in Flutter and display that content on the screen.
 
@@ -35,5 +35,8 @@ List<List<dynamic>> _data = [];
     });
   }
 ```
+
+## Perview
+![Screenshot_1672434494](https://user-images.githubusercontent.com/71665268/210120568-9b91ea47-d1de-45ba-bb6d-a5908e06844e.png)
 
 enjoyy :smiling_face_with_three_hearts:
